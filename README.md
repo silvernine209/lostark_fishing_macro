@@ -1,5 +1,6 @@
 # Lost Ark Fish Macro
 Automate fishing task in a game called Lost Ark using image detection.
+This was a quick implementation of machine learning in gaming for fun :)
 
 ## Prerequisites
 Python 3  
